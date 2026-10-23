@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: llouzya.github.io/lou-s-garden/
+  baseUrl: https://louzya.github.io/lou-s-garden/
   ignorePatterns:
     - private
     - templates
